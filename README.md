@@ -10,12 +10,12 @@ Mars exploration route planning using A*, scientific terrain data, and a wearabl
 
 **Team Members:**
 
-Kevin Eduardo Reyes Luna.
-Cesar Raúl González González.
-Josue David Rodriguez Cortes.
-Martín Alejandro Ríos Juárez.
-Kevin Othoniel Araiza Rodriguez.
-Carlos Omar Medina Rodriguez.
+- Kevin Eduardo Reyes Luna.
+- Cesar Raúl González González.
+- Josue David Rodriguez Cortes.
+- Martín Alejandro Ríos Juárez.
+- Kevin Othoniel Araiza Rodriguez.
+- Carlos Omar Medina Rodriguez.
 
 ## Project Purpose
 
@@ -163,7 +163,6 @@ This project is an experimental regional planning prototype.
 - Temperature scenarios are climatological estimates rather than live weather measurements.
 - Route cost weights and terrain restrictions are experimental.
 - Geological feature centers are not validated access or sampling sites.
-- The system does not guarantee astronaut safety or physical traversability.
 
 ## Technologies
 

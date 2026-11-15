@@ -152,7 +152,17 @@ A return-route CSV must be generated beforehand to display the full outbound-and
 
 ## Hardware Prototype
 
-TODO
+The project includes a wearable hardware prototype built around a Raspberry Pi 4 Model B, which serves as the main computing platform. The prototype was designed to explore the possibility of integrating a portable Mars exploration planning system into a wearable device.
+
+During development, the team also proposed two additional features:
+
+- Solar Power: A solar panel was physically incorporated into the prototype as a potential alternative energy source.
+
+- Voice Commands: A microphone was incorporated to explore the possibility of hands-free interaction.
+
+Although the solar panel and microphone are physically present, neither solar-powered operation nor voice-command recognition is currently implemented.
+
+The Raspberry Pi 4 Model B is the only computing component currently used for the prototype's implemented functionality.
 
 ## Limitations
 

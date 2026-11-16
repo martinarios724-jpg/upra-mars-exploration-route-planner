@@ -1,4 +1,4 @@
-# upra-ARES-mars-exploration-route-planner
+# upra-ares-martian-traverse-&-savigation-system
 Mars exploration route planning using A*, scientific terrain data, and a wearable Raspberry Pi prototype.
 
 # Mars Exploration Route Planner
@@ -25,7 +25,7 @@ It is intended as a research and educational prototype, not an operational navig
 
 ## Overview
 
-Mars Exploration Route Planner is a prototype decision-support system designed to assist with regional exploration planning on Mars.
+ARES (Autonomous Reconnaissance & Exploration System) is an experimental system designed to support scientific exploration planning on Mars by combining real planetary data with intelligent route optimization.
 
 The project combines scientific terrain and temperature datasets with the A* pathfinding algorithm to calculate and compare routes between selected locations.
 
